@@ -7,6 +7,7 @@
 
 ## Process
 * Algebra 1
+  * https://www.ixl.com/math/algebra-1 - great resource for practice problems/criteria (maybe has more)
 * Geometry
 * Algebra 2/Trigonometry
 * Pre-Calculus
